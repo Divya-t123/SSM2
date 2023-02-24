@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SSM2.props" />
+</Project>
